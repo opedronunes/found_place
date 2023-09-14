@@ -15,14 +15,14 @@ export default function Products(){
                     <div className="flex flex-wrap -mx-4 -mb-10 text-center">
                         <div className="sm:w-1/2 mb-10 px-4">
                             <div className="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" className="object-cover object-center h-full w-full" src="images/1.jpg" />
+                            <img alt="content" className="object-cover object-center h-full w-full" src="images/3.jpg" />
                             </div>
                             <h2 className="title-font text-2xl font-medium text-gray-400 mt-6 mb-3">MacBook</h2>
                             <p className="leading-relaxed text-base">Tecnologia de ponta com os melhores Macbook's da atualidade.</p>
                         </div>
                         <div className="sm:w-1/2 mb-10 px-4">
                             <div className="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" className="object-cover object-center h-full w-full" src="images/1.jpg" />
+                            <img alt="content" className="object-cover object-center h-full w-full" src="images/2.jpg" />
                             </div>
                             <h2 className="title-font text-2xl font-medium text-gray-400 mt-6 mb-3">Ipad</h2>
                             <p className="leading-relaxed text-base">Procurando produtividade? A linha de Ipad pode ser sua melhor escolha!</p>
@@ -36,7 +36,7 @@ export default function Products(){
                         </div>
                         <div className="sm:w-1/2 mb-10 px-4">
                             <div className="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" className="object-cover object-center h-full w-full" src="images/1.jpg" />
+                            <img alt="content" className="object-cover object-center h-full w-full" src="images/4.jpg" />
                             </div>
                             <h2 className="title-font text-2xl font-medium text-gray-400 mt-6 mb-3">Acessórios</h2>
                             <p className="leading-relaxed text-base">Temos acessórios para todos os produtos Apple.</p>
